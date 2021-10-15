@@ -1,0 +1,17 @@
+#header : id
+
+.header : classe
+
+DIMENSOES E ALINHAMENTOS
+
+width: largura
+
+height: altura
+
+Max-width:largura maxima
+
+max-height: altura maxima
+
+margin: espacamento entre elementos
+
+text align: alinhas textos

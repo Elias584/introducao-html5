@@ -1,0 +1,19 @@
+chift alt f : organiza codigo
+
+ TITULOS
+<h1>Titulo da pagina</h1>                    <h2>Titulo de secao</h2>                  <h3>Titulo de artigo</h3>                  <p>Conteudo do artigo(pode usar imagens,videos,codigos)</p>   
+LINKS
+<a>Link</a>                                  IMAGENS
+<img src="caminho ou link da imagem">        <img alt="descricao da foto quando ela nao é carregada"> 
+LISTAS                                       <ul>(ordem dos itens nao é importante)
+    item 1
+    item 2
+  </ul>                                     <ol>(ordem dos itens é importante)
+      1. item 1                                  2. item 3                                 </ol>                                <li> (item da lista)
+
+
+
+
+
+
+
